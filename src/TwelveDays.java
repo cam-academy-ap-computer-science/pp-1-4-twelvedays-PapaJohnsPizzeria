@@ -12,7 +12,8 @@ public class TwelveDays {
 		hens();
 		doves();
 		partridge();
-		System.out.println("On the fourth day of chirstmas,\\nmy true love gave to me");
+		System.out.println("On the fourth day of chirstmas,\nmy true love gave to me");
+		System.out.println("On the fifth day of chirstmas,\nmy true love gave to me");
 	}
 	public static void partridge() {
 		System.out.println("a partridge in a pear tree.\n ");
